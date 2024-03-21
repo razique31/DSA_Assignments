@@ -28,6 +28,5 @@ public class Phone{
         System.out.print("My number is ");
         number1.display();
         System.out.print("\nYour number is ");
-        number2.display();
     }
 }
